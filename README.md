@@ -34,5 +34,5 @@ RESTful API для управления библиотечным каталог�
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/ваш-username/library-api.git
+   git clone https://github.com/prototiptwo/imp-project
    cd library-api
